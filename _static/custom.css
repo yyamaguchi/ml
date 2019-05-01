@@ -1,0 +1,5 @@
+.show-hide-show:before { content: url("../_static/minus.png"); }
+.show-hide-hide:before { content: url("../_static/plus.png"); }
+/* .show-hide-show:after { content: "閉じる"; } */
+/* .show-hide-hide:after { content: "開く"; } */
+
